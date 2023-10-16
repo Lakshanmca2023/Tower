@@ -1,9 +1,13 @@
 # Tower
 DESCRIPTION:
-Animated Tower of Hanoi game.Creates a DOM element for each disk and peg.Positions the disks and pegs on the game board.Recursively moves the disks from one peg to another, following the rules of the Tower of Hanoi game.Plots the current state of the game after each move.This code can be used to create a simple and educational game that teaches players about the Tower of Hanoi puzzle.
+The Tower of Hanoi is a classic puzzle where the objective is to move a stack of disks from one peg to another .
 
-Steps to Run the Project:
-Create an HTML file.Save the JavaScript code as tower_of_hanoi.js.Open the HTML file in a web browser.Enter the number of disks you want to play with in the input box and click the "Make a Move" button.Watch the animation as the disks are moved to the goal peg.
+HOW TO RUN THE CODE:
 
-Future Improvements:
-Add a "reset" button.Add support for multiple peg configurations.Add a "hint" button that would give the user a hint on the next move to make.
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying Hanoi-Towers puzzle.
+
+FUTURE IMPROVEMENT:
+
+Implement a timer to track the time taken to solve the Tower of Hanoi puzzle.
